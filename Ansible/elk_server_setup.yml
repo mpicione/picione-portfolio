@@ -1,0 +1,43 @@
+---
+- name: Elk Server Setup
+  hosts: elk
+  remote_user: azadmin
+  become: True
+  tasks:
+
+  - name: install docker.io
+    apt:
+      force_apt_get: yes
+      update_cache: yes
+      name: docker.io
+      state: present
+
+  - name: install python3
+    apt:
+      force_apt_get: yes
+      update_cache: yes
+      name: python3-pip
+      state: present
+
+  - name: install pip packages
+    pip:
+      name: docker
+      state: present
+
+  - name: increase virtual memory
+    sysctl:
+      name: vm.max_map_count
+      value: '262144'
+      state: present
+      reload: yes
+
+  - name: download configure launch docker container
+    docker_container:
+      name: elk_server
+      image: sebp/elk:761
+      state: started
+      restart_policy: always
+      published_ports:
+        - 5601:5601
+        - 9200:9200
+        - 5044:5044
