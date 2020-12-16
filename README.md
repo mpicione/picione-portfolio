@@ -1,11 +1,10 @@
-Picione Portfolio
-Portfolio of CyberSecurity Projects Completed by Marc Picione
+#Picione Portfolio
+##Professional Portfolio of Marc Picione
 
-<<<<<<< HEAD
 Folders:
 
-Ansible - contains examples of Infrastructure as Code .yml files
-Diagrams - contains examples of network diagrams created with draw.io
-Linux - contains examples of bash scripts written for Linux
-=======
->>>>>>> 62eb7ffd2f19f6411ce56ab86fbd760c33c6e3de
+####Call Center Manager Portfolio
+######Collection of work from my 20 year work history in sales, customer service, quality assurance, training, and leadership that highlights my skills in coaching, team building, communication, leadership, development, and project management. 
+
+####Cyber Security Portfolio
+######Colletion of projects completed that showcase my technical aptitude, ability to learn quickly, and passion to try new things to further my skillset in security.
