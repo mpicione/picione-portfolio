@@ -33,16 +33,15 @@ The configuration details of each machine on the internal network may be found b
 | Web-02               | Web Server     | 10.0.0.6   | Linux (Ubuntu 18.04-LTS)   |
 | Web-03               | Web Server     | 10.0.0.9   | Linux (Ubuntu 18.04-LTS)   |
 | ElkServer            | SIEM           | 10.1.0.4   | Linux (Ubuntu 18.04-LTS)   |
-| Azure Load Balancer  | Load Balancer  |            |                            |
+| Azure Load Balancer  | Load Balancer  | 10.0.0.8   |                            |
 
 ### Access Policies
 
 The machines on the internal network are not exposed to the public Internet.
 
-Only the Jump-Box-Provisioner machine and Load Balancer can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-* 137.135.84.226
+Only the Jump-Box-Provisioner machine and Load Balancer can accept connections from the Internet.
 
-Machines within the internal network can only be accessed via SSH from the Ansible container installed on the Jump-Box-Provisioner using the IP address listed above.
+Machines within the internal network can only be accessed via SSH from the Ansible container installed on the Jump-Box-Provisioner using the IP address 137.135.84.226.
 
 A summary of the access policies in place can be found in the table below.
 
@@ -57,9 +56,9 @@ A summary of the access policies in place can be found in the table below.
 		
 ### Elk Configuration
 
-Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because it removes human error, saves time and allows administrators to focus on other tasks, and reduces downtime when all or parts of the network must be rebuilt.
+Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because it removes human error, saves time, allows administrators to focus on other tasks, and reduces downtime when all or parts of the network must be rebuilt.
 
-The playbooks implement the following tasks:
+The elk_server_setup.yml playbook implements the following tasks:
 * Installs Docker
 * Installs Python3
 * Installs PIP Packages
