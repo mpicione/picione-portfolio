@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![Network Diagram](/Diagram/Network_Diagram.jpg) 
+![Network Diagram](https://github.com/mpicione/picione-portfolio/blob/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server/Diagram/Network_Diagram.jpg) 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above. Alternatively, individual .yml files may be used to install only certain pieces of it, such as Filebeat.
 * Ansible/web_vm_docker_setup.yml
