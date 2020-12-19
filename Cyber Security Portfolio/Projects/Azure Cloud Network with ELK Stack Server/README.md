@@ -11,12 +11,12 @@ These files have been tested and used to generate a live ELK deployment on Azure
 * Ansible/metricbeat_setup.yml
 
 This document contains the following details:
-* Description of the Topology
-* Access Policies
-* ELK Configuration 
-  * Machines Being Monitored
-  * Beats in Use
-* Using the Playbooks
+* [Description of the Topology](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server#description-of-the-topology)
+* [Access Policies](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server#access-policies)
+* [ELK Configuration](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server#elk-configuration) 
+  * [Machines Being Monitored](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server#machines-being-monitored)
+  * [Beats in Use](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server#beats-in-use)
+* [Using the Playbooks](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server#using-the-playbooks)
 
 ### Description of the Topology
 
@@ -26,13 +26,13 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 
 The configuration details of each machine on the internal network may be found below:
 
-| Name                 | Function       | IP Address | Operating System |
-|----------------------|----------------|------------|------------------|
-| Jump-Box-Provisioner | Gateway        | 10.0.0.7   | Linux            |
-| Web-01               | Web Server     | 10.0.0.5   | Linux            |
-| Web-02               | Web Server     | 10.0.0.6   | Linux            |
-| Web-03               | Web Server     | 10.0.0.9   | Linux            |
-| ElkServer            | Stack Server   | 10.1.0.4   | Linux            |
+| Name                 | Function       | IP Address | Operating System           |
+|----------------------|----------------|------------|----------------------------|
+| Jump-Box-Provisioner | Gateway        | 10.0.0.7   | Linux (Ubuntu 18.04-LTS)   |
+| Web-01               | Web Server     | 10.0.0.5   | Linux (Ubuntu 18.04-LTS)   |
+| Web-02               | Web Server     | 10.0.0.6   | Linux (Ubuntu 18.04-LTS)   |
+| Web-03               | Web Server     | 10.0.0.9   | Linux (Ubuntu 18.04-LTS)   |
+| ElkServer            | Stack Server   | 10.1.0.4   | Linux (Ubuntu 18.04-LTS)   |
 
 ### Access Policies
 
