@@ -5,10 +5,10 @@ The files in this repository were used to configure the network depicted below.
 ![Network Diagram](https://github.com/mpicione/picione-portfolio/blob/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server/Diagram/Network_Diagram.jpg) 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above. Alternatively, individual .yml files may be used to install only certain pieces of it, such as Filebeat.
-* Ansible/web_vm_docker_setup.yml
-* Ansible/elk_server_setup.yml
-* Ansible/filebeat_setup.yml
-* Ansible/metricbeat_setup.yml
+* [Ansible/web_vm_docker_setup.yml](https://github.com/mpicione/picione-portfolio/blob/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server/Ansible/web_vm_docker_setup.yml)
+* [Ansible/elk_server_setup.yml](https://github.com/mpicione/picione-portfolio/blob/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server/Ansible/elk_server_setup.yml)
+* [Ansible/filebeat_setup.yml](https://github.com/mpicione/picione-portfolio/blob/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server/Ansible/filebeat_setup.yml)
+* [Ansible/metricbeat_setup.yml](https://github.com/mpicione/picione-portfolio/blob/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server/Ansible/metricbeat_setup.yml)
 
 This document contains the following details:
 * [Description of the Topology](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server#description-of-the-topology)
@@ -32,13 +32,14 @@ The configuration details of each machine on the internal network may be found b
 | Web-01               | Web Server     | 10.0.0.5   | Linux (Ubuntu 18.04-LTS)   |
 | Web-02               | Web Server     | 10.0.0.6   | Linux (Ubuntu 18.04-LTS)   |
 | Web-03               | Web Server     | 10.0.0.9   | Linux (Ubuntu 18.04-LTS)   |
-| ElkServer            | Stack Server   | 10.1.0.4   | Linux (Ubuntu 18.04-LTS)   |
+| ElkServer            | SIEM           | 10.1.0.4   | Linux (Ubuntu 18.04-LTS)   |
+| Azure Load Balancer  | Load Balancer  |            |                            |
 
 ### Access Policies
 
 The machines on the internal network are not exposed to the public Internet.
 
-Only the Jump-Box-Provisioner machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
+Only the Jump-Box-Provisioner machine and Load Balancer can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
 * 137.135.84.226
 
 Machines within the internal network can only be accessed via SSH from the Ansible container installed on the Jump-Box-Provisioner using the IP address listed above.
@@ -51,7 +52,8 @@ A summary of the access policies in place can be found in the table below.
 | Web-01               | No                   |                                |
 | Web-02               | No                   |                                |
 | Web-03               | No                   |                                |
-| ElkServer            | No                   |                                |	
+| ElkServer            | No                   |                                |
+| Azure Load Balancer  | Yes                  | All HTTP Traffic               |	
 		
 ### Elk Configuration
 
