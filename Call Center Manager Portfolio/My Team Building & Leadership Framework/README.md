@@ -26,7 +26,7 @@ Many of the ideas I have enacted in my Team Building Framework originate from th
 
 [The Achieve Institute](https://www.achieveinst.com/) (For a new window, Windows: CTRL+Click; Mac: CMD+Click)
 
-## Leading at the Speed of Trust
+### Leading at the Speed of Trust
 
 In my experience, trust is at the core of all success and must be present on a productive team no matter what the cost. In addition to 20 years experience cultivating confidence in and from my teams, I have completed the Franklin Covey Training Solution, "Leading at the Speed of Trust", and implement its core concepts into my everyday leadership strategy. This material is also copyrighted, I welcome a candid discussion about them when we meet. 
 
