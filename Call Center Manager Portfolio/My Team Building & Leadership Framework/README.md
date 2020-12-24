@@ -56,16 +56,16 @@ Conveying unwavering trust in my team and their potential, allowing them to part
 
 Please enjoy the following photos from the event:
 
-![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh1.jpg =518x345)
+![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh1.jpg)
 
-![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh2.jpg =518x345)
+![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh2.jpg)
 
-![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh3.jpg =518x345)
+![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh3.jpg)
 
-![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh4.jpg =518x345)
+![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh4.jpg)
 
-![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh5.jpg =518x345)
+![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh5.jpg)
 
-![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh6.jpg =518x345)
+![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh6.jpg)
 
-![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh7.jpg =518x345)
+![Ronald McDonald House Charity Event - Verizon Wireless - Columbus, OH](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Photos/rmh7.jpg)
