@@ -40,7 +40,7 @@ If you'd like to learn more, please check out this link:
 
 ### An Attitude of Gratitude
 
-While I do not have documentation to share regarding this plank of my Team Building Framework, I believe it is critically important to share. Promoting gratitude in daily huddles, weekly meetings, and impromptu interactions on the call center floor is an indispensable component of building teams that helps them focus on what they can control, focus on what is possible, and understand that being happy and positive is a conscious choice one can make and infectious in the workplace. This is achieved through a consistent message and mastery of your emotional intelligence.
+While I do not have documentation to share regarding this plank of my Team Building Framework, I believe it is critically important to share. Promoting gratitude in daily huddles, weekly meetings, and impromptu interactions on the call center floor is an indispensable component of building teams that helps them focus on what they can control, what is possible, and understand that being happy and positive is a conscious choice one can make and it is infectious in the workplace. This is achieved through a consistent message and mastery of your emotional intelligence.
 
 The necessity of gratitude in my life and its significance to team prosperity was instilled in me thanks to a training authored and facilitated by Mark Hiltz, Vice President of Internal Sales and Service at Nationwide Insurance. It is my sincerest hope that his aspiration of speaking about and teaching the attitude of gratitude comes to fruition; until then, you can follow his posts regarding gratitude on LinkedIn:
 
