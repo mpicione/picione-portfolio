@@ -138,9 +138,9 @@ We also followed a few best practices to increase the effectiveness of the inter
 
 The final step of Empathize that helps to ensure we have a full picture of the customer experience (CX) is Journey Mapping.
 
-#### Journey map
+#### Journey Map
 
-Creating a visual representation of the customer's journey creates a narrative we can follow which uncovers additional perspectives, factors, or problems we have not yet anticipated.
+Using a visual representation of the customer's journey creates a narrative we can follow which uncovers additional perspectives, factors, or problems we have not yet anticipated.
 
 INSERT CUSTOMER JOURNEY FLOW CHART
 
