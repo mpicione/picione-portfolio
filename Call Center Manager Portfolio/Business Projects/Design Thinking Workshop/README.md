@@ -1,4 +1,4 @@
-## Design Thinking (UX) Workshop
+# Design Thinking (UX) Workshop
 
 In this 2 day project we implemented design thinking (UX), or 'Outside the Box' thinking, to understand the user, challenge assumptions, and redefine the problem to inspire creative solutions that would not be immediately apparent.
 
@@ -6,7 +6,7 @@ The process was customer centric and solutions based; it was intended to quickly
 
 In this workshop our goal was to redesign a self-serve prepaid wireless phone kiosk placed in big box retail locations. We were given the opportunity to visit real locations; and, work with real customers for interviews, prototype testing, and feedback. Out of four teams our prototype was rated the highest by customers.
 
-### Contents
+## Contents
 
 * Discover
    * Divergence & Convergence Cycle
@@ -15,6 +15,7 @@ In this workshop our goal was to redesign a self-serve prepaid wireless phone ki
    * Observational Research
       * Go to Gemba
    * Humanize the Target
+      * Interviews
       * Persona
       * A Day in the Life Of
    * Understand the Customer Experience
@@ -38,11 +39,11 @@ In this workshop our goal was to redesign a self-serve prepaid wireless phone ki
       * Customer Feedback Grid
 * Delivery
 
-### Discover
+## Discover
 
 Look in a fresh way, notice new things, and gather insights.
 
-#### Divergence & Convergence Cycle
+### Divergence & Convergence Cycle
 
 At the beginning of the workshop we were given a high level overview of the Divergence and Convergence Cycle before jumping into EDIPT (Empathize, Define, Ideate, Prototype, Test). In short, there are four phases:
 
@@ -53,23 +54,25 @@ At the beginning of the workshop we were given a high level overview of the Dive
 
 ![Divergence and Convergence Cycle](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/divergence_convergence_cycle.png)
 
-#### Business Model Canvas
+### Business Model Canvas
 
 We used the Business Model Canvas as a guide to creating a new lean business model highlighting the most important aspects such as value proposition, customers, and finances. 
 
 ![Business Model Canvas](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/business_model_canvas.png)
 
-### Empathize
+## Empathize
 
 Work to understand the customer experience (CX) through observation, interaction, and immersion.
 
-#### Observational Research
+### Observational Research
 
-Go to Gemba
+To gain a true understanding of the customer experience (CX) you need first hand experience with the location, and 
 
-#### Humanize the Target
+#### Go to Gemba
 
-Interviews
+### Humanize the Target
+
+#### Interviews
 
 The next part of understanding the customer experience (CX) was performing Interviews to gain an understanding of and help empathize with our target users.
 
@@ -89,7 +92,7 @@ We also followed a few best practices to increase the effectiveness of the inter
 * Encourage Story Telling; gain a better understanding of how they view the world
 * Ask questions neutrally; avoid leading them to answers
 
-Persona
+#### Persona
 
 1. What is their name and age?
 2. In what city or down do they live?
@@ -101,7 +104,7 @@ Persona
 8. How often do they read books or magazines? How do they access that material? 
 9. How often do they watch movies? How do they access that material?
 
-A day in the life of
+#### A day in the life of
 
 1. When do they get up?
 2. What is their first interface of the day?
@@ -115,26 +118,26 @@ A day in the life of
 10. How and what content did they watch?
 11. What time do they go to bed?
 
-#### Understand the Customer Experience
+### Understand the Customer Experience
 
-Journey map
+#### Journey map
 
-### Define
+## Define
 
 Make sense of all the possibilities; determine which are feasible, which matter the most, and which should be acted upon. 
 
-#### Understand Customer Needs & Motivation
-#### Capture Additional Insights
-#### Convert Needs to Requirements
+### Understand Customer Needs & Motivation
+### Capture Additional Insights
+### Convert Needs to Requirements
 
-### Ideate
+## Ideate
 
 Explore a large, diverse list of possible solutions which empowers you to create new, unique ideas instead of simply fixing old ones.
 
-#### Brainstorm Solutions
-#### Uncover Other Areas to Explore
+### Brainstorm Solutions
+### Uncover Other Areas to Explore
 
-### Prototype
+## Prototype
 
 Transform these ideas into a physical form then interact with them; empathize with the customer and their experience with the solution.
 
@@ -142,13 +145,13 @@ In our brief 2 day workshop we did not have the opportunity to create real proto
 
 View my [handwritten notes](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/prototype_and_presentation_notes.pdf) on the prototype, and some of the talking points for the presentation.
 
-### Test
+## Test
 
 Try it, observe interactions, use feedback to learn more about the customer, refine the prototype and continue to iterate and improve, if necessary.
 
 As mentioned above, our testing was limited to a presentation given to real customers. View my [handwritten notes](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/prototype_and_presentation_notes.pdf) on the prototype, and some of the talking points for the presentation.
 
-#### Customer Feedback
+### Customer Feedback
 
 We used a customer feedback grid that focused on a few basic questions:
 
@@ -173,7 +176,7 @@ We also followed a few best practices to increase the effectiveness of the inter
 * Encourage Story Telling; gain a better understanding of how they view the world
 * Ask questions neutrally; avoid leading them to answers
 
-### Delivery
+## Delivery
 
 Resulting project is finalized, produced, and launched. 
 
