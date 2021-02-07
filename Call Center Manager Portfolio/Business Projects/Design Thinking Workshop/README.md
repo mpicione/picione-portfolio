@@ -35,7 +35,7 @@ In this workshop our goal was to redesign a self-serve prepaid wireless phone ki
 
 ## Discover
 
-Look in a fresh way, notice new things, and gather insights.
+Look at a problem or opportunity in a fresh way, notice new things, and gather insights.
 
 ### Divergence & Convergence Cycle
 
@@ -60,7 +60,7 @@ Work to understand the customer experience (CX) through observation, interaction
 
 ### Observational Research
 
-To gain a true understanding of the customer experience (CX) you need first hand experience with the location, and of the users. This is achieved through Go to Gemba, focusing on Go See, Ask Why, and Show Respect; and Interviews that focus on Persona, and A Day in the Life Of the user.
+To gain a true understanding of the customer experience (CX) you need first hand experience and knowledge of the location. This is achieved through Go to Gemba, focusing on Go See, Ask Why, and Show Respect.
 
 #### Go to Gemba
 
@@ -85,6 +85,8 @@ Regarding "Show Respect" we not only ensured we were respectful to those around 
 3. The Organization
 
 ### Humanize the Target
+
+To gain a true understanding of the customer experience (CX) you need first hand experience and knkowledge regarding the users. This is achieved through Interviews that focus on Persona, and A Day in the Life Of the user.
 
 #### Interviews
 
@@ -156,15 +158,15 @@ In the Define step of EDIPT we take the research done and use a few tools to mak
 
 ### Transfer Insights
 
-Insight Transfer Worksheet
+INSERT HANDWRITTEN INSIGHT TRANSFER WORKSHEET
 
 ### Draw the Problem
 
-Draw the Problem Worksheet
+INSERT HANDWRITTEN DRAW THE PROBLEM WORKSHEET
 
 ### Convert Needs to Requirements
 
-Convert Needs to Requirements Worksheet
+INSERT HANDWRITTEN CONVER NEEDS TO REQUIREMENTS WORKSHEET
 
 #### Define Best Practices Not Utilized in Workshop:
 
@@ -181,11 +183,11 @@ Explore a large, diverse list of possible solutions which empowers you to create
 
 ### Brainstorm Solutions
 
-Brainstorm Worksheet
+INSERT HANDWRITTEN BRAINSTORM SOLUTIONS WORKSHEET
 
 ### Draw the Solution
 
-Draw the Solution Worksheet
+INSERT HANDWRITTEN DRAW THE SOLUTION WORKSHEET
 
 #### Ideate Best Practices Not Utilized in Workshop:
 
