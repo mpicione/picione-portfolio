@@ -51,13 +51,13 @@ At the beginning of the workshop we were given a high level overview of the Dive
 3. Develop potential solutions (solutions created, diamond size increases again)
 4. Delivery solutions that work (narrow down to best solution, diamond size decreases again)
 
-![Divergence and Convergence Cycle](https://image.url)
+![Divergence and Convergence Cycle](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/divergence_convergence_cycle.png)
 
 #### Business Model Canvas
 
 We used the Business Model Canvas as a guide to creating a new lean business model highlighting the most important aspects such as value proposition, customers, and finances. 
 
-![Business Model Canvas](https://image.url)
+![Business Model Canvas](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/business_model_canvas.png)
 
 ### Empathize
 
@@ -140,13 +140,13 @@ Transform these ideas into a physical form then interact with them; empathize wi
 
 In our brief 2 day workshop we did not have the opportunity to create real prototypes. Instead, we drew them out on paper, created a presentation, and were given the opportunity to meet with real customers to paint a picture for them of what the experience with the new kiosk would be like.
 
-View my [handwritten notes](https://pdf.url) on the prototype, and some of the talking points for the presentation.
+View my [handwritten notes](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/prototype_and_presentation_notes.pdf) on the prototype, and some of the talking points for the presentation.
 
 ### Test
 
 Try it, observe interactions, use feedback to learn more about the customer, refine the prototype and continue to iterate and improve, if necessary.
 
-As mentioned above, our testing was limited to a presentation given to real customers. View my [handwritten notes](https://pdf.url) on the prototype, and some of the talking points for the presentation.
+As mentioned above, our testing was limited to a presentation given to real customers. View my [handwritten notes](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/prototype_and_presentation_notes.pdf) on the prototype, and some of the talking points for the presentation.
 
 #### Customer Feedback
 
