@@ -148,6 +148,14 @@ Creating a visual representation of the customer's journey creates a narrative w
 
 INSERT CUSTOMER JOURNEY FLOW CHART
 
+#### Empathize Best Practices Not Utilized in Workshop:
+
+1. Ethnographic Study
+2. Empathy Map
+3. Conjoint Analysis
+4. Kano Analysis
+5. Customer Segmentation
+
 ## Define
 
 In the Define step of EDIPT we take the research done and use a few tools to make sense of the data. We determine all the possibilities; determine which are feasible, which matter the most, and which should be acted upon. 
@@ -164,6 +172,15 @@ Draw the Problem Worksheet
 
 Convert Needs to Requirements Worksheet
 
+#### Define Best Practices Not Utilized in Workshop:
+
+1. Jobs to Be Done
+2. Outcome Expectations
+3. Quality Functional Deployment
+4. Paired Comparisons
+5. Benchmarking
+6. Design Scorecard
+
 ## Ideate
 
 Explore a large, diverse list of possible solutions which empowers you to create new, unique ideas instead of simply fixing old ones.
@@ -176,6 +193,25 @@ Brainstorm Worksheet
 
 Draw the Solution Worksheet
 
+#### Ideate Best Practices Not Utilized in Workshop:
+
+1. Innovation Event
+2. Borrow Brilliance
+3. Hybrid/Pugh Matrix
+4. Trend Springboard
+5. I Want
+6. Nine Windows
+7. HIT Matrix
+8. ERA
+9. MoSCoW
+10. Photo Ethnography
+11. Backward Brainstorming
+12. SCAMPER
+13. Davinci's Idea Box
+14. Elevator Speech
+15. Concept Templates (NUDDS External, NUDDS Internal, Cover Story)
+16. TRIZ (Theory of Inventive Problem Solving)
+
 ## Prototype
 
 Transform these ideas into a physical form then interact with them; empathize with the customer and their experience with the solution.
@@ -183,6 +219,16 @@ Transform these ideas into a physical form then interact with them; empathize wi
 In our brief 2 day workshop we did not have the opportunity to create real prototypes. Instead, we drew them out on paper, created a presentation, and were given the opportunity to meet with real customers to paint a picture for them of what the experience with the new kiosk would be like.
 
 View my [handwritten notes](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/prototype_and_presentation_notes.pdf) on the prototype, and some of the talking points for the presentation.
+
+#### Prototype Best Practices Not Utilized in Workshop:
+
+1. Separate Elements
+2. Sketch
+3. Physical Prototype
+4. Demo Video
+5. Computer Modeling
+6. Role Play
+7. Failure Mode Effect Analysis
 
 ## Test
 
@@ -214,6 +260,12 @@ We also followed a few best practices to increase the effectiveness of the inter
 * Avoid Yes/No questions; encourage conversation
 * Encourage Story Telling; gain a better understanding of how they view the world
 * Ask questions neutrally; avoid leading them to answers
+
+#### Test Best Practices Not Utilized in Workshop:
+
+1. Feedback Surveys
+2. Focus Groups
+3. Usability Testing
 
 ## Delivery
 
