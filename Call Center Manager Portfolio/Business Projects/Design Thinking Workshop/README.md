@@ -2,9 +2,9 @@
 
 In this 2 day project we implemented design thinking (UX), or 'Outside the Box' thinking, to understand the user, challenge assumptions, and redefine the problem to inspire creative solutions that would not be immediately apparent at first glance.
 
-The process was customer centric and solutions based; it was intended to quickly produce prototypes, get customer feedback, and fail quickly in order to overcome obstacles and succeed sooner. While the steps below were taken order, they do not have to be. They can occur concurrently, and repeatedly. 
+The process was customer centric and solutions based; it was intended to quickly produce prototypes, get customer feedback, and fail quickly in order to overcome obstacles and succeed sooner. While the steps below were taken in order, they do not have to be. They can occur concurrently, and repeatedly. 
 
-In this workshop our goal was to redesign a self-serve prepaid wireless phone kiosk placed in big box retail locations. We were given the opportunity to visit real locations; and, work with real customers for interviews, prototype testing, and feedback. Out of four teams our prototype was rated the highest by customers.
+In this workshop our goal was to redesign a self-serve prepaid wireless phone kiosk placed in big box retail locations. We were given the opportunity to visit real locations as well as work with real customers for interviews, prototype testing, and feedback. Out of four teams our prototype was rated the highest by customers.
 
 ## Contents
 
@@ -50,7 +50,7 @@ At the beginning of the workshop we were given a high level overview of the Dive
 
 ### Business Model Canvas
 
-We used the Business Model Canvas as a guide to creating a new lean business model highlighting the most important aspects such as value proposition, customers, and finances. We used the form below; I no longer am in position of the original handwritten document used in the workshop.
+We used the Business Model Canvas as a guide to creating a new lean business model highlighting the most important aspects such as value proposition, customers, and finances. We used the form below; I am no longer in posession of the original handwritten document used in the workshop.
 
 ![Business Model Canvas](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/business_model_canvas.png)
 
