@@ -212,9 +212,9 @@ INSERT HANDWRITTEN DRAW THE SOLUTION WORKSHEET
 
 Transform these ideas into a physical form then interact with them; empathize with the customer and their experience with the solution.
 
-In our brief 2 day workshop we did not have the opportunity to create real prototypes. Instead, we drew them out on paper, created a presentation, and were given the opportunity to meet with real customers to paint a picture for them of what the experience with the new kiosk would be like.
+In our brief 2 day workshop we did not have the opportunity to create real prototypes. Instead, we drew them out on paper, created a presentation, and were given the opportunity to meet with real customers to paint a picture for them of what the experience with the new kiosk would be like. Here are my handwritten notes regarding the prototype:
 
-View my [handwritten notes](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/prototype_and_presentation_notes.pdf) on the prototype, and some of the talking points for the presentation.
+![Prototype](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/prototype.png)
 
 #### Prototype Best Practices Not Utilized in Workshop:
 
@@ -230,7 +230,9 @@ View my [handwritten notes](https://github.com/mpicione/picione-portfolio/blob/m
 
 Try it, observe interactions, use feedback to learn more about the customer, refine the prototype and continue to iterate and improve, if necessary.
 
-As mentioned above, our testing was limited to a presentation given to real customers. View my [handwritten notes](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/prototype_and_presentation_notes.pdf) on the prototype, and some of the talking points for the presentation.
+In our brief 2 day workshop we did not have the opportunity to create real prototypes. Instead, we drew them out on paper, created a presentation, and were given the opportunity to meet with real customers to paint a picture for them of what the experience with the new kiosk would be like. Here are my handwritten notes regarding the presentation:
+
+![Presentation](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/presentation_notes.png)
 
 ### Customer Feedback
 
