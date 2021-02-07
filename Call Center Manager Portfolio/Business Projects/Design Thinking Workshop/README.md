@@ -8,10 +8,10 @@ In this workshop our goal was to redesign a self-serve prepaid wireless phone ki
 
 ## Contents
 
-* Discover
+* [Discover](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#discover)
    * Divergence & Convergence Cycle
    * Business Model Canvas
-* Empathize
+* [Empathize](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#empathize)
    * Observational Research
       * Go to Gemba
    * Humanize the Target
@@ -21,22 +21,22 @@ In this workshop our goal was to redesign a self-serve prepaid wireless phone ki
    * Understand the Customer Experience
       * Journey Map
    * Empathize Best Practices Not Utilized in Workshop
-* Define
+* [Define](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#define)
    * Transfer Insights
    * Draw the Problem
    * Convert Needs to Requirements
    * Define Best Practices Not Utilized in Workshop
-* Ideate
+* [Ideate](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#ideate)
    * Brainstorm Solutions
    * Draw the Solution
    * Ideate Best Practices Not Utilized in Workshop
-* Prototype
+* [Prototype](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#prototype)
    * Prototype Best Practices Not Utilized in Workshop
-* Test
+* [Test](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#test)
    * Customer Feedback
    * Test Best Practices Not Utilized in Workshop
-* Delivery
-* Resources Used
+* [Delivery](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#delivery)
+* [Resources](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#resources)
 
 ## Discover
 
