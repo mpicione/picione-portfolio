@@ -50,7 +50,7 @@ At the beginning of the workshop we were given a high level overview of the Dive
 
 ### Business Model Canvas
 
-We used the Business Model Canvas as a guide to creating a new lean business model highlighting the most important aspects such as value proposition, customers, and finances. 
+We used the Business Model Canvas as a guide to creating a new lean business model highlighting the most important aspects such as value proposition, customers, and finances. We used the form below; I no longer am in position of the original handwritten document used in the workshop.
 
 ![Business Model Canvas](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/business_model_canvas.png)
 
@@ -120,7 +120,7 @@ We also followed a few best practices to increase the effectiveness of the inter
 8. How often do they read books or magazines? How do they access that material? 
 9. How often do they watch movies? How do they access that material?
 
-#### A day in the life of
+#### A Day In The Life Of
 
 1. When do they get up?
 2. What is their first interface of the day?
@@ -166,7 +166,7 @@ INSERT HANDWRITTEN DRAW THE PROBLEM WORKSHEET
 
 ### Convert Needs to Requirements
 
-INSERT HANDWRITTEN CONVER NEEDS TO REQUIREMENTS WORKSHEET
+INSERT HANDWRITTEN CONVERT NEEDS TO REQUIREMENTS WORKSHEET
 
 #### Define Best Practices Not Utilized in Workshop:
 
