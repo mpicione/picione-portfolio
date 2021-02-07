@@ -1,6 +1,6 @@
 # Design Thinking (UX) Workshop
 
-In this 2 day project we implemented design thinking (UX), or 'Outside the Box' thinking, to understand the user, challenge assumptions, and redefine the problem to inspire creative solutions that would not be immediately apparent.
+In this 2 day project we implemented design thinking (UX), or 'Outside the Box' thinking, to understand the user, challenge assumptions, and redefine the problem to inspire creative solutions that would not be immediately apparent at first glance.
 
 The process was customer centric and solutions based; it was intended to quickly produce prototypes, get customer feedback, and fail quickly in order to overcome obstacles and succeed sooner. While the steps below were taken order, they do not have to be. They can occur concurrently, and repeatedly. 
 
@@ -66,9 +66,29 @@ Work to understand the customer experience (CX) through observation, interaction
 
 ### Observational Research
 
-To gain a true understanding of the customer experience (CX) you need first hand experience with the location, and 
+To gain a true understanding of the customer experience (CX) you need first hand experience with the location, and of the users. This is achieved through Go to Gemba, focusing on Go See, Ask Why, and Show Respect; and Interviews that focus on Persona, and A Day in the Life Of the user.
 
 #### Go to Gemba
+
+Japanese for "the actual place", Go to Gemba is a Lean principle made famous by the words of Toyota Chairman Fujio Cho, "Go see, ask why, show respect". We observed customer interactions with the pay as you go wireless kiosk as well as their other surroundings, employees, and other customers.
+
+When visiting a location we considered several factors regarding "Go see":
+
+1. What is the purpose of this location? Of the broader organization? Are they aligned?
+2. Are the processes displayed supporting that purpose?
+3. Are the people at this location working to achieve that purpose?
+
+We also worked to view the location through the following "Ask Why" lenses:
+
+1. Solutions View; look for solutions
+2. Waste View; look for waste
+3. Problem View; look for problems
+
+Regarding "Show Respect" we not only ensured we were respectful to those around us, we also looked for signs of disrespect by others towards:
+
+1. Workers
+2. Customers
+3. The Organization
 
 ### Humanize the Target
 
@@ -120,22 +140,41 @@ We also followed a few best practices to increase the effectiveness of the inter
 
 ### Understand the Customer Experience
 
+The final step of Empathize that helps to ensure we have a full picture of the customer experience (CX) is Journey Mapping.
+
 #### Journey map
+
+Creating a visual representation of the customer's journey creates a narrative we can follow which uncovers additional perspectives, factors, or problems we have not yet anticipated.
+
+INSERT CUSTOMER JOURNEY FLOW CHART
 
 ## Define
 
-Make sense of all the possibilities; determine which are feasible, which matter the most, and which should be acted upon. 
+In the Define step of EDIPT we take the research done and use a few tools to make sense of the data. We determine all the possibilities; determine which are feasible, which matter the most, and which should be acted upon. 
 
-### Understand Customer Needs & Motivation
-### Capture Additional Insights
+### Transfer Insights
+
+Insight Transfer Worksheet
+
+### Draw the Problem
+
+Draw the Problem Worksheet
+
 ### Convert Needs to Requirements
+
+Convert Needs to Requirements Worksheet
 
 ## Ideate
 
 Explore a large, diverse list of possible solutions which empowers you to create new, unique ideas instead of simply fixing old ones.
 
 ### Brainstorm Solutions
-### Uncover Other Areas to Explore
+
+Brainstorm Worksheet
+
+### Draw the Solution
+
+Draw the Solution Worksheet
 
 ## Prototype
 
