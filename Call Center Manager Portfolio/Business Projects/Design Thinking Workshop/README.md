@@ -270,12 +270,12 @@ We also followed a few best practices to increase the effectiveness of the inter
 
 Resulting project is finalized, produced, and launched. 
 
-After all four groups in our workshop had completed testing and received feedback we met as a group, discussed what worked and what didn't from each project, and all four were taken by the workshop leader to be considered in the real development of a new solution for pre-paid kiosks in big box retail locations. While we did not receive further communication, I am confident that the work we did proved useful in the 
+After all four groups in our workshop had completed testing and received feedback we met as a group, discussed what worked and what didn't from each project, and all four were taken by the workshop leader to be considered in the real development of a new solution for pre-paid kiosks in big box retail locations. While we did not receive further communication, I am confident that the work we did proved useful in their Design Thinking process.
 
 ## Resources
 
-[Design Thinking: Divergence and Convergence Cycles]{https://medium.com/@i.shubhangich/design-thinking-divergence-and-convergence-cycles-3ce7a6f27815}
+[Design Thinking: Divergence and Convergence Cycles](https://medium.com/@i.shubhangich/design-thinking-divergence-and-convergence-cycles-3ce7a6f27815)
 
 [What is Design Thinking and Why Is It So Popular?](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)
 
-[Resources](https://resource.image.url)
+[Resources](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/resources.png)
