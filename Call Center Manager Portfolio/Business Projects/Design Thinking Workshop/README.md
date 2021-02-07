@@ -278,4 +278,4 @@ After all four groups in our workshop had completed testing and received feedbac
 
 [What is Design Thinking and Why Is It So Popular?](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)
 
-[Resources](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/resources.png)
+![Resources](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/resources.png)
