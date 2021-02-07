@@ -13,13 +13,8 @@ In this workshop our goal was to redesign a self-serve prepaid wireless phone ki
    * Business Model Canvas
 * [Empathize](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#empathize)
    * Observational Research
-      * Go to Gemba
    * Humanize the Target
-      * Interviews
-      * Persona
-      * A Day in the Life Of
    * Understand the Customer Experience
-      * Journey Map
    * Empathize Best Practices Not Utilized in Workshop
 * [Define](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#define)
    * Transfer Insights
