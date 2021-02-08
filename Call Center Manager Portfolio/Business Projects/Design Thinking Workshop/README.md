@@ -28,7 +28,6 @@ In this workshop our goal was to design a self-serve prepaid wireless phone kios
    * Define Best Practices Not Utilized in Workshop
 * [Ideate](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#ideate)
    * Brainstorm Solutions
-   * Draw the Solution
    * Ideate Best Practices Not Utilized in Workshop
 * [Prototype](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#prototype)
    * Prototype Best Practices Not Utilized in Workshop
@@ -163,11 +162,15 @@ In the Define step of EDIPT we take the research done and use a few tools to mak
 
 ### Transfer Insights
 
-INSERT HANDWRITTEN INSIGHT TRANSFER WORKSHEET
+Please see my handwritten transfer insights worksheet below. This is not a comprehensive list of everything done in this project as we worked as a team and there were several other participants who handled other customer experience insights.
+
+![Transfer Insights Worksheet](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/insight_transfer.png)
 
 ### Convert Needs to Requirements
 
-INSERT HANDWRITTEN CONVERT NEEDS TO REQUIREMENTS WORKSHEET
+Please see my handwritten convert needs to requirements worksheet below. This is not a comprehensive list of everything done in this project as we worked as a team and there were several other participants who handled other customer experience needs.
+
+![Convert Needs to Requirements Worksheet](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/needs_to_requirements.png)
 
 #### Define Best Practices Not Utilized in Workshop:
 
@@ -177,6 +180,7 @@ INSERT HANDWRITTEN CONVERT NEEDS TO REQUIREMENTS WORKSHEET
 4. Paired Comparisons
 5. Benchmarking
 6. Design Scorecard
+7. Draw Problems
 
 ## Ideate
 
@@ -184,11 +188,9 @@ Explore a large, diverse list of possible solutions which empowers you to create
 
 ### Brainstorm Solutions
 
-INSERT HANDWRITTEN BRAINSTORM SOLUTIONS WORKSHEET
+Please see my handwritten brainstorming worksheet below. This is not a comprehensive list of all brainstorming done on this project as we worked as a team and there were several other participants who handled brainstorming in other areas of concern.
 
-### Draw the Solution
-
-INSERT HANDWRITTEN DRAW THE SOLUTION WORKSHEET
+![Brainstorm Worksheet](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/brainstorming.png)
 
 #### Ideate Best Practices Not Utilized in Workshop:
 
@@ -208,6 +210,7 @@ INSERT HANDWRITTEN DRAW THE SOLUTION WORKSHEET
 14. Elevator Speech
 15. Concept Templates (NUDDS External, NUDDS Internal, Cover Story)
 16. TRIZ (Theory of Inventive Problem Solving)
+17. Draw Solutions
 
 ## Prototype
 
