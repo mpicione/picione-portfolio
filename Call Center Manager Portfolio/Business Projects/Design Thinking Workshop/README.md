@@ -2,9 +2,14 @@
 
 In this 2 day project we implemented design thinking (UX), or 'Outside the Box' thinking, to understand the user, challenge assumptions, and redefine the problem to inspire creative solutions that would not be immediately apparent at first glance.
 
-The process was customer centric and solutions based; it was intended to quickly produce prototypes, get customer feedback, and fail quickly in order to overcome obstacles and succeed sooner. While the steps below were taken in order, they do not have to be. They can occur concurrently, and repeatedly. 
+The process was customer centric and solutions based; it was intended to quickly produce prototypes, get customer feedback, and fail quickly in order to overcome obstacles and succeed sooner. While the steps below were taken in order, they do not have to be. They can occur concurrently.
 
-In this workshop our goal was to redesign a self-serve prepaid wireless phone kiosk placed in big box retail locations. We were given the opportunity to visit real locations as well as work with real customers for interviews, prototype testing, and feedback. We worked hard to be as thorough as possible in the very limited amount of time we had for each step of the Design Thinking process.
+The process is also iterative and should be ongoing; our workshop only completed one interation. Completing the process repeatedly provides value to the customer by confirming understanding of the why, what, and how behind user motivations. 
+
+In this workshop our goal was to design a self-serve prepaid wireless phone kiosk to replace standard displays currently in big box retail locations. We were given the opportunity to visit real locations as well as work with real customers for interviews, prototype testing, and feedback. We worked hard to be as thorough as possible in the very limited amount of time we had for each step of the Design Thinking process.
+
+![UX Design Why, What, How?](http://image.url)
+![UX Design](http://image.url)
 
 ## Contents
 
@@ -269,6 +274,8 @@ Resulting project is finalized, produced, and launched.
 After all four groups in our workshop had completed testing and received feedback we met as a group, discussed what worked and what didn't from each project, and all four were taken by the workshop leader to be considered in the real development of a new solution for pre-paid kiosks in big box retail locations. While we did not receive further communication, I am confident that the work we did proved useful in their Design Thinking process.
 
 ## Resources
+
+[User Experience (UX) Design](https://www.interaction-design.org/literature/topics/ux-design)
 
 [Design Thinking: Divergence and Convergence Cycles](https://medium.com/@i.shubhangich/design-thinking-divergence-and-convergence-cycles-3ce7a6f27815)
 
