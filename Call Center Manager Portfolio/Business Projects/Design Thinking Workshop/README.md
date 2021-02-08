@@ -4,7 +4,7 @@ In this 2 day project we implemented design thinking (UX), or 'Outside the Box' 
 
 The process was customer centric and solutions based; it was intended to quickly produce prototypes, get customer feedback, and fail quickly in order to overcome obstacles and succeed sooner. While the steps below were taken in order, they do not have to be. They can occur concurrently, and repeatedly. 
 
-In this workshop our goal was to redesign a self-serve prepaid wireless phone kiosk placed in big box retail locations. We were given the opportunity to visit real locations as well as work with real customers for interviews, prototype testing, and feedback. Out of four teams our prototype was rated the highest by customers.
+In this workshop our goal was to redesign a self-serve prepaid wireless phone kiosk placed in big box retail locations. We were given the opportunity to visit real locations as well as work with real customers for interviews, prototype testing, and feedback. We worked hard to be as thorough as possible in the very limited amount of time we had for each step of the Design Thinking process.
 
 ## Contents
 
@@ -18,7 +18,6 @@ In this workshop our goal was to redesign a self-serve prepaid wireless phone ki
    * Empathize Best Practices Not Utilized in Workshop
 * [Define](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#define)
    * Transfer Insights
-   * Draw the Problem
    * Convert Needs to Requirements
    * Define Best Practices Not Utilized in Workshop
 * [Ideate](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop#ideate)
@@ -160,10 +159,6 @@ In the Define step of EDIPT we take the research done and use a few tools to mak
 
 INSERT HANDWRITTEN INSIGHT TRANSFER WORKSHEET
 
-### Draw the Problem
-
-INSERT HANDWRITTEN DRAW THE PROBLEM WORKSHEET
-
 ### Convert Needs to Requirements
 
 INSERT HANDWRITTEN CONVERT NEEDS TO REQUIREMENTS WORKSHEET
@@ -235,6 +230,8 @@ In our brief 2 day workshop we did not have the opportunity to create real proto
 ![Presentation](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/presentation_notes.png)
 
 ### Customer Feedback
+
+Out of four teams our prototype was rated the highest by customers.
 
 We used a customer feedback grid that focused on a few basic questions:
 
