@@ -8,8 +8,9 @@ The process is also iterative and should be ongoing; our workshop only completed
 
 In this workshop our goal was to design a self-serve prepaid wireless phone kiosk to replace standard displays currently in big box retail locations. We were given the opportunity to visit real locations as well as work with real customers for interviews, prototype testing, and feedback. We worked hard to be as thorough as possible in the very limited amount of time we had for each step of the Design Thinking process.
 
-![UX Design Why, What, How?](http://image.url)
-![UX Design](http://image.url)
+![UX Design Why, What, How?](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/what_why_how_UX.png)
+
+![UX Design](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/UX_design.png)
 
 ## Contents
 
