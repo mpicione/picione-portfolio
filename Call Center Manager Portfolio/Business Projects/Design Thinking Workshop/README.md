@@ -146,7 +146,7 @@ The final step of Empathize that helps to ensure we have a full picture of the c
 
 Using a visual representation of the customer's journey creates a narrative we can follow which uncovers additional perspectives, factors, or problems we have not yet anticipated.
 
-INSERT CUSTOMER JOURNEY FLOW CHART
+![Journey Map](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/journey_map.png)
 
 #### Empathize Best Practices Not Utilized in Workshop:
 
