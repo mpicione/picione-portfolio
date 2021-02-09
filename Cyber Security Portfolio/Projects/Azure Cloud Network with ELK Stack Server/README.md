@@ -1,4 +1,6 @@
-## Azure Cloud Network with ELK Stack Server Project
+###### [Portolio Home](https://github.com/mpicione/picione-portfolio) | [Call Center Manager Portfolio](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio) | [CyberSecurity Portfolio](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio)
+
+# Azure Cloud Network with ELK Stack Server Project
 
 The files in this repository were used to configure the network depicted below.
 
@@ -18,7 +20,7 @@ This document contains the following details:
   * [Beats in Use](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server#beats-in-use)
 * [Using the Playbooks](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio/Projects/Azure%20Cloud%20Network%20with%20ELK%20Stack%20Server#using-the-playbooks)
 
-### Description of the Topology
+## Description of the Topology
 
 Load balancing ensures that the application will be available, in addition to restricting access to the network.
 
@@ -35,7 +37,7 @@ The configuration details of each machine on the internal network may be found b
 | ElkServer            | SIEM           | 10.1.0.4   | Linux (Ubuntu 18.04-LTS)   |
 | Azure Load Balancer  | Load Balancer  | 10.0.0.8   |                            |
 
-### Access Policies
+## Access Policies
 
 The machines on the internal network are not exposed to the public Internet.
 
@@ -54,7 +56,7 @@ A summary of the access policies in place can be found in the table below.
 | ElkServer            | No                   |                                |
 | Azure Load Balancer  | Yes                  | All HTTP Traffic               |	
 		
-### Elk Configuration
+## Elk Configuration
 
 Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because it removes human error, saves time, allows administrators to focus on other tasks, and reduces downtime when all or parts of the network must be rebuilt.
 
@@ -65,14 +67,14 @@ The elk_server_setup.yml playbook implements the following tasks:
 * Increases Virtual Memory Available to the Server
 * Downloads, Configures, and Starts Elk Server Container
 
-#### Machines Being Monitored
+### Machines Being Monitored
 
 This ELK server is configured to monitor the following machines:
 * 10.0.0.5
 * 10.0.0.6
 * 10.0.0.9
 
-#### Beats in Use
+### Beats in Use
 
 We have installed the following Beats on these machines:
 * Filebeat
@@ -82,7 +84,7 @@ These Beats allow us to collect the following information from each machine:
 * Filebeat monitors log files and forwards them to the Elk Server for indexing. These can be used to monitor login events, look for unexpected or unusual activity to identify possible malicious attacks on the system.
 * Metricbeat monitors statistics from the OS or services running on the server, such as CPU or Memory usage, and forwards them to the Elk Server. These can be used to identify possible hardware issues before they cause outages and detect possible malicious attacks on the system that are using additional system resources.
 
-### Using the Playbooks
+## Using the Playbooks
 
 In order to use one of the playbooks, you will need to have an Ansible control node already configured with SSH keys already generated and shared appropriately. Assuming you have such a control node provisioned:
 
