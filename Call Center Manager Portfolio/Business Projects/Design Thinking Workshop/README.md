@@ -1,6 +1,6 @@
 ###### [Portolio Home](https://github.com/mpicione/picione-portfolio) | [Call Center Manager Portfolio](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio) | [CyberSecurity Portfolio](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio)
 
-# Design Thinking (UX) Workshop
+# Design Thinking & User Experience (UX) Workshop
 
 In this 2 day project we implemented design thinking with a focus on user experience (UX) to understand the user, challenge assumptions, and redefine the problem to inspire creative solutions that would not be immediately apparent at first glance.
 
