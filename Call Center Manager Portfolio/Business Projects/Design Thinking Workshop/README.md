@@ -2,7 +2,7 @@
 
 # Design Thinking (UX) Workshop
 
-In this 2 day project we implemented design thinking (UX), or 'Outside the Box' thinking, to understand the user, challenge assumptions, and redefine the problem to inspire creative solutions that would not be immediately apparent at first glance.
+In this 2 day project we implemented design thinking with a focus on user experience (UX) to understand the user, challenge assumptions, and redefine the problem to inspire creative solutions that would not be immediately apparent at first glance.
 
 The process was customer centric and solutions based; it was intended to quickly produce prototypes, get customer feedback, and fail quickly in order to overcome obstacles and succeed sooner. While the steps below were taken in order, they do not have to be. They can occur concurrently.
 
