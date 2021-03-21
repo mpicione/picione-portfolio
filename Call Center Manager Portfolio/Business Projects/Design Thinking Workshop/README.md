@@ -96,7 +96,7 @@ To gain a true understanding of the customer experience (CX) you need first hand
 
 #### Interviews
 
-The next part of understanding the customer experience (CX) was performing Interviews to gain an understanding of and help empathize with our target users.
+The next part of understanding the customer experience (CX) was performing Interviews to gain an understanding of and help empathize with our target users. We had the opportunity to meet with real customers who had expressed interest in prepaid wireless service. While I do not have the interview results, or the personas we developed from them, I can demonstrate the process we followed.
 
 During interviews we focused on understanding several key factors, asking follow up questions if necessary to better understand and empathize with them:
 
@@ -144,9 +144,13 @@ We also followed a few best practices to increase the effectiveness of the inter
 
 The final step of Empathize that helps to ensure we have a full picture of the customer experience (CX) is Journey Mapping.
 
-#### Journey Map
+#### Experience Map & Journey Map
 
 Using a visual representation of the customer's journey creates a narrative we can follow which uncovers additional perspectives, factors, or problems we have not yet anticipated.
+
+We first created an experience map on the walls of the training room using sticky notes containing user actions, user quotes (if overheard), user goals (if overheard), and user pain points that were observed. We placed them in chronological order from left to right, trying to keep similar things together. We then went through them all and organized them into rows for each task, labeled each task, grouped the tasks into activities, and used other color stickies for any random design ideas or questions we cam eup with.
+
+By having all members of every team participate in this we were able to remove observer bias and gain a more solid understanding of the customer experience. I do not have any photographic records of the training room; however, we essentially wallpapered the entire room! We also hand drew journey maps afterwards that summarized the combined experiences of all our customers.
 
 ![Journey Map](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/journey_map.png)
 
@@ -218,7 +222,7 @@ Please see my handwritten brainstorming worksheet below. This is not a comprehen
 
 Transform these ideas into a physical form then interact with them; empathize with the customer and their experience with the solution.
 
-In our brief 2 day workshop we did not have the opportunity to create real prototypes. Instead, we drew them out on paper, created a presentation, and were given the opportunity to meet with real customers to paint a picture for them of what the experience with the new kiosk would be like. Here are my handwritten notes regarding the prototype:
+In our brief 2 day workshop we did not have the opportunity to create real prototypes. Instead, we drew them out on paper (or built them with paper), created a presentation, and were given the opportunity to meet with real customers to paint a picture for them of what the experience with the new kiosk would be like. Here are my handwritten notes regarding the prototype:
 
 ![Prototype](https://github.com/mpicione/picione-portfolio/blob/main/Call%20Center%20Manager%20Portfolio/Business%20Projects/Design%20Thinking%20Workshop/images/prototype.png)
 
