@@ -2,7 +2,7 @@
 
 # IBM Watson Assistant Chatbot
 
-Please [click here](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-east&integrationID=da12c328-cb26-439b-b602-5a3f989e7e14&serviceInstanceID=1e35049e-d2ab-43db-9f34-eeaa49e96563) to access my IBM Watson Assistant Demo. Created 2/6/21. Last updated 2/6/21.
+Please [click here](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-east&integrationID=da12c328-cb26-439b-b602-5a3f989e7e14&serviceInstanceID=1e35049e-d2ab-43db-9f34-eeaa49e96563) to access my IBM Watson Assistant Demo. Once there, click the chat icon in the bottom right side of the screen. Created 2/6/21. Last updated 2/6/21.
 
 ## Project Goal
 
