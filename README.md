@@ -10,8 +10,4 @@ This experience is a strong asset for any career path, including Cyber Security.
 
 [View Call Center Manager Portfolio](https://github.com/mpicione/picione-portfolio/tree/main/Call%20Center%20Manager%20Portfolio)
 
-#### Cyber Security Portfolio:
 
-Collection of projects completed that showcase my technical aptitude, ability to learn quickly, and passion to try new things to further my skillset in offensive and defensive security.
-
-[View Cyber Security Portfolio](https://github.com/mpicione/picione-portfolio/tree/main/Cyber%20Security%20Portfolio)
